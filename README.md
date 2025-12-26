@@ -6,3 +6,4 @@ roadmap training
 https://roadmap.sh/projects/personal-blog
 [
 ](https://roadmap.sh/projects/weather-api-wrapper-service)
+https://roadmap.sh/projects/blogging-platform-api
